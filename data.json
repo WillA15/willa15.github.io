@@ -1,0 +1,190 @@
+{
+  "lastUpdated": "2026-09-22",
+  "races": [
+    {
+      "round": 15,
+      "name": "Azerbaijan Grand Prix",
+      "flag": "🇦🇿",
+      "circuit": "Baku City Circuit",
+      "location": "Baku, Azerbaijan",
+      "sprint": false,
+      "sessions": [
+        { "name": "Practice 1", "start": "2026-09-24T08:30:00Z" },
+        { "name": "Practice 2", "start": "2026-09-24T12:00:00Z" },
+        { "name": "Practice 3", "start": "2026-09-25T08:30:00Z" },
+        { "name": "Qualifying", "start": "2026-09-25T12:00:00Z" },
+        { "name": "Race", "start": "2026-09-26T11:00:00Z" }
+      ],
+      "watchFor": [
+        "It's a Saturday race: the whole weekend runs a day early (practice Thursday, qualifying Friday) to avoid clashing with Azerbaijan's Remembrance Day on Sept 27.",
+        "Baku mixes a very long flat-out run to Turn 1, prime overtaking territory, with a narrow castle section where the walls punish any mistake.",
+        "Antonelli arrives on a two-race winning streak. A bad day for him is the best chance his rivals have to reopen the title fight."
+      ]
+    },
+    {
+      "round": 16,
+      "name": "Bahrain Grand Prix in Malaysia",
+      "flag": "🇲🇾",
+      "circuit": "Sepang International Circuit",
+      "location": "Sepang, Malaysia",
+      "sprint": false,
+      "sessions": [
+        { "name": "Practice 1", "start": "2026-10-02T04:30:00Z" },
+        { "name": "Practice 2", "start": "2026-10-02T08:00:00Z" },
+        { "name": "Practice 3", "start": "2026-10-03T04:30:00Z" },
+        { "name": "Qualifying", "start": "2026-10-03T08:00:00Z" },
+        { "name": "Race", "start": "2026-10-04T07:00:00Z" }
+      ],
+      "watchFor": []
+    },
+    {
+      "round": 17,
+      "name": "Singapore Grand Prix",
+      "flag": "🇸🇬",
+      "circuit": "Marina Bay Street Circuit",
+      "location": "Singapore",
+      "sprint": true,
+      "sessions": [
+        { "name": "Practice 1", "start": "2026-10-09T08:30:00Z" },
+        { "name": "Sprint Qualifying", "start": "2026-10-09T12:30:00Z" },
+        { "name": "Sprint", "start": "2026-10-10T09:00:00Z" },
+        { "name": "Qualifying", "start": "2026-10-10T13:00:00Z" },
+        { "name": "Race", "start": "2026-10-11T12:00:00Z" }
+      ],
+      "watchFor": []
+    },
+    {
+      "round": 18,
+      "name": "United States Grand Prix",
+      "flag": "🇺🇸",
+      "circuit": "Circuit of the Americas",
+      "location": "Austin, USA",
+      "sprint": false,
+      "sessions": [
+        { "name": "Practice 1", "start": "2026-10-23T17:30:00Z" },
+        { "name": "Practice 2", "start": "2026-10-23T21:00:00Z" },
+        { "name": "Practice 3", "start": "2026-10-24T17:30:00Z" },
+        { "name": "Qualifying", "start": "2026-10-24T21:00:00Z" },
+        { "name": "Race", "start": "2026-10-25T20:00:00Z" }
+      ],
+      "watchFor": []
+    },
+    {
+      "round": 19,
+      "name": "Mexico City Grand Prix",
+      "flag": "🇲🇽",
+      "circuit": "Autódromo Hermanos Rodríguez",
+      "location": "Mexico City, Mexico",
+      "sprint": false,
+      "sessions": [
+        { "name": "Practice 1", "start": "2026-10-30T18:30:00Z" },
+        { "name": "Practice 2", "start": "2026-10-30T22:00:00Z" },
+        { "name": "Practice 3", "start": "2026-10-31T17:30:00Z" },
+        { "name": "Qualifying", "start": "2026-10-31T21:00:00Z" },
+        { "name": "Race", "start": "2026-11-01T20:00:00Z" }
+      ],
+      "watchFor": []
+    },
+    {
+      "round": 20,
+      "name": "São Paulo Grand Prix",
+      "flag": "🇧🇷",
+      "circuit": "Interlagos",
+      "location": "São Paulo, Brazil",
+      "sprint": false,
+      "sessions": [
+        { "name": "Practice 1", "start": "2026-11-06T15:30:00Z" },
+        { "name": "Practice 2", "start": "2026-11-06T19:00:00Z" },
+        { "name": "Practice 3", "start": "2026-11-07T14:30:00Z" },
+        { "name": "Qualifying", "start": "2026-11-07T18:00:00Z" },
+        { "name": "Race", "start": "2026-11-08T17:00:00Z" }
+      ],
+      "watchFor": []
+    },
+    {
+      "round": 21,
+      "name": "Las Vegas Grand Prix",
+      "flag": "🇺🇸",
+      "circuit": "Las Vegas Strip Circuit",
+      "location": "Las Vegas, USA",
+      "sprint": false,
+      "sessions": [
+        { "name": "Practice 1", "start": "2026-11-20T00:30:00Z" },
+        { "name": "Practice 2", "start": "2026-11-20T04:00:00Z" },
+        { "name": "Practice 3", "start": "2026-11-21T00:30:00Z" },
+        { "name": "Qualifying", "start": "2026-11-21T04:00:00Z" },
+        { "name": "Race", "start": "2026-11-22T04:00:00Z" }
+      ],
+      "watchFor": []
+    },
+    {
+      "round": 22,
+      "name": "Qatar Grand Prix",
+      "flag": "🇶🇦",
+      "circuit": "Lusail International Circuit",
+      "location": "Lusail, Qatar",
+      "sprint": false,
+      "sessions": [
+        { "name": "Practice 1", "start": "2026-11-27T13:30:00Z" },
+        { "name": "Practice 2", "start": "2026-11-27T17:00:00Z" },
+        { "name": "Practice 3", "start": "2026-11-28T14:30:00Z" },
+        { "name": "Qualifying", "start": "2026-11-28T18:00:00Z" },
+        { "name": "Race", "start": "2026-11-29T16:00:00Z" }
+      ],
+      "watchFor": []
+    },
+    {
+      "round": 23,
+      "name": "Abu Dhabi Grand Prix",
+      "flag": "🇦🇪",
+      "circuit": "Yas Marina Circuit",
+      "location": "Abu Dhabi, UAE",
+      "sprint": false,
+      "sessions": [
+        { "name": "Practice 1", "start": "2026-12-04T09:30:00Z" },
+        { "name": "Practice 2", "start": "2026-12-04T13:00:00Z" },
+        { "name": "Practice 3", "start": "2026-12-05T10:30:00Z" },
+        { "name": "Qualifying", "start": "2026-12-05T14:00:00Z" },
+        { "name": "Race", "start": "2026-12-06T13:00:00Z" }
+      ],
+      "watchFor": []
+    }
+  ],
+  "headlines": [
+    {
+      "date": "2026-09-22",
+      "title": "Antonelli could be champion as early as Singapore",
+      "whyItMatters": "He leads Mercedes team mate George Russell by 81 points with 233 still up for grabs. If he wins everything in Baku, Sepang and Singapore while Russell scores nothing, he's champion on Oct 11, so every race now either tightens his grip or gives his rivals hope.",
+      "source": "Formula1.com",
+      "url": "https://www.formula1.com/en/latest/article/points-permutations-when-is-the-earliest-antonelli-could-win-the-world-championship.24UKT2fsQl4GmC5DMrmYUy"
+    },
+    {
+      "date": "2026-09-22",
+      "title": "Hadjar is back at Red Bull after a wrist injury",
+      "whyItMatters": "Isack Hadjar missed Zandvoort, Monza and Madrid, so Baku is his first race since July. Stand-in Liam Lawson, sixth in Madrid, heads back to Racing Bulls and Yuki Tsunoda returns to the reserve role.",
+      "source": "Formula1.com",
+      "url": "https://www.formula1.com/en/latest/article/hadjar-to-make-racing-return-with-red-bull-at-azerbaijan-gp.1ddPnUSDEze0V9MCiQ9d2U"
+    },
+    {
+      "date": "2026-09-13",
+      "title": "Antonelli wins in Madrid after a perfectly timed pit stop",
+      "whyItMatters": "Lando Norris led from pole until a Virtual Safety Car let Mercedes pit Antonelli while the field was slowed, and a slow McLaren stop dropped Norris to third behind Max Verstappen. It was Antonelli's eighth win of the season.",
+      "source": "Formula1.com",
+      "url": "https://www.formula1.com/en/latest/article/antonelli-clinches-victory-over-verstappen-and-norris-in-spanish-gp.644ZZfPzRPEaUh2JBHcB9"
+    },
+    {
+      "date": "2026-08-20",
+      "title": "Verstappen commits to Red Bull until the end of 2030",
+      "whyItMatters": "The four-time champion's new deal ends a season and a half of speculation about a move to a rival team. He's still chasing his first win of 2026 and finished second in Madrid.",
+      "source": "The Race",
+      "url": "https://www.the-race.com/formula-1/max-verstappen-red-bull-f1-contract-2030-extended-deal/"
+    },
+    {
+      "date": "2026-07-26",
+      "title": "The Bahrain Grand Prix moves to Malaysia's Sepang circuit",
+      "whyItMatters": "Conflict in the Middle East cancelled April's races in Bahrain and Saudi Arabia, so Bahrain's race is being held at Sepang on Oct 2–4. It's F1's first visit to Malaysia since 2017, at a track known for unpredictable tropical weather.",
+      "source": "Sky Sports",
+      "url": "https://www.skysports.com/f1/news/12433/13566600/malaysia-added-to-2026-f1-calendar-in-october-to-host-postponed-bahrain-gp-amid-continued-conflict-in-middle-east"
+    }
+  ]
+}

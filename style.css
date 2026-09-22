@@ -1,0 +1,447 @@
+/* ============================================================
+   Fast Lap: styles
+   Dark "TV broadcast" look: near-black panels, bold condensed
+   type, and a red accent. Colours live in the variables below,
+   so you can restyle the whole site by changing them.
+   ============================================================ */
+
+:root {
+  --bg: #0b0c10;           /* page background */
+  --panel: #15171d;        /* cards and panels */
+  --panel-raised: #1c1f27; /* striped table rows */
+  --line: #2a2e38;         /* borders and dividers */
+  --text: #f3f4f6;         /* main text */
+  --muted: #9ca3af;        /* labels and small print */
+  --accent: #ff2a2a;       /* the red */
+  --sprint: #ffc53d;       /* yellow for sprint sessions */
+
+  --font-head: "Barlow Condensed", "Arial Narrow", sans-serif;
+  --font-body: "Barlow", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --font-flag: "Twemoji Country Flags", "Apple Color Emoji", "Segoe UI Emoji", "Noto Color Emoji", sans-serif;
+}
+
+/* Windows doesn't draw flag emoji (you'd see letters like "AZ"),
+   so we borrow a free flag font. The unicode-range means it only
+   downloads when a flag is actually on the page. */
+@font-face {
+  font-family: "Twemoji Country Flags";
+  unicode-range: U+1F1E6-1F1FF, U+1F3F4, U+E0062-E0063, U+E0065, U+E0067, U+E006C, U+E006E, U+E0073-E0074, U+E0077, U+E007F;
+  src: url("https://cdn.jsdelivr.net/npm/country-flag-emoji-polyfill@0.1/dist/TwemojiCountryFlags.woff2") format("woff2");
+  font-display: swap;
+}
+
+/* ---------- Basics ---------- */
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+  font-family: var(--font-body);
+  font-size: 1rem;
+  line-height: 1.5;
+}
+
+/* Keeps content in a centred column with 16px gutters on phones */
+.wrap {
+  max-width: 880px;
+  margin-inline: auto;
+  padding-inline: 16px;
+}
+
+a {
+  color: inherit;
+}
+
+a:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 3px;
+}
+
+.flag {
+  font-family: var(--font-flag);
+  font-style: normal;
+}
+
+/* ---------- Header ---------- */
+
+.site-header {
+  border-top: 4px solid var(--accent);
+  border-bottom: 1px solid var(--line);
+  padding-block: 20px;
+}
+
+.logo {
+  margin: 0;
+  font-family: var(--font-head);
+  font-size: clamp(2.25rem, 7vw, 3rem);
+  font-style: italic;
+  font-weight: 800;
+  line-height: 1;
+  text-transform: uppercase;
+}
+
+.logo span {
+  color: var(--accent);
+  margin-left: 0.12em;
+}
+
+.tagline {
+  margin: 6px 0 0;
+  color: var(--muted);
+  font-family: var(--font-head);
+  font-weight: 600;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+
+.updated {
+  margin: 10px 0 0;
+  color: var(--muted);
+  font-size: 0.875rem;
+}
+
+/* ---------- Page layout ---------- */
+
+main {
+  display: grid;
+  gap: 44px;
+  padding-block: 28px 56px;
+}
+
+/* Section headings with a small slanted red block in front */
+.section-title {
+  margin: 0 0 16px;
+  padding-bottom: 8px;
+  border-bottom: 1px solid var(--line);
+  font-family: var(--font-head);
+  font-size: 1.25rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.section-title::before {
+  content: "";
+  display: inline-block;
+  width: 14px;
+  height: 14px;
+  margin-right: 10px;
+  background: var(--accent);
+  transform: skewX(-15deg);
+}
+
+/* Small slanted labels: "Next race", "Sprint weekend" */
+.chip {
+  display: inline-block;
+  padding: 2px 12px;
+  background: var(--accent);
+  color: #fff;
+  font-family: var(--font-head);
+  font-size: 0.875rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  transform: skewX(-12deg);
+}
+
+.chip.sprint {
+  background: var(--sprint);
+  color: #111;
+}
+
+.chip.small {
+  padding: 0 8px;
+  font-size: 0.75rem;
+}
+
+/* ---------- Next race panel ---------- */
+
+.next-race {
+  padding: 24px;
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-left: 6px solid var(--accent);
+  border-radius: 4px;
+}
+
+.race-labels {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px 12px;
+}
+
+.race-name {
+  margin: 14px 0 6px;
+  font-family: var(--font-head);
+  font-size: clamp(2.1rem, 7vw, 3.4rem);
+  font-style: italic;
+  font-weight: 800;
+  line-height: 1.02;
+  text-transform: uppercase;
+}
+
+.race-name .flag {
+  margin-right: 0.25em;
+}
+
+.race-meta {
+  margin: 0;
+  color: var(--muted);
+}
+
+.race-meta strong {
+  color: var(--text);
+  font-weight: 600;
+  white-space: nowrap; /* keeps "Sep 24 – 26" on one line */
+}
+
+.panel-subtitle {
+  margin: 28px 0 10px;
+  color: var(--muted);
+  font-family: var(--font-head);
+  font-size: 1rem;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+
+/* Session schedule, laid out like a timing screen */
+.sessions {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  border-top: 1px solid var(--line);
+}
+
+.session {
+  display: grid;
+  grid-template-columns: 10rem 6.5rem 1fr;
+  grid-template-areas: "day time name";
+  gap: 4px 12px;
+  align-items: baseline;
+  padding: 10px 12px;
+  border-bottom: 1px solid var(--line);
+  font-variant-numeric: tabular-nums;
+}
+
+.session:nth-child(even) {
+  background: var(--panel-raised);
+}
+
+.session-day  { grid-area: day; color: var(--muted); }
+.session-time { grid-area: time; font-weight: 600; }
+
+.session-name {
+  grid-area: name;
+  font-family: var(--font-head);
+  font-size: 1.1rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+/* A coloured bar on the left of the race and sprint rows */
+.session.is-race   { box-shadow: inset 4px 0 0 var(--accent); }
+.session.is-sprint { box-shadow: inset 4px 0 0 var(--sprint); }
+.session.is-race .session-name { color: var(--accent); }
+
+.timezone-note {
+  margin: 10px 0 0;
+  color: var(--muted);
+  font-size: 0.875rem;
+}
+
+/* "What to watch for" notes */
+.watch-list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.watch-list li {
+  position: relative;
+  margin: 10px 0;
+  padding-left: 1.4em;
+}
+
+.watch-list li::before {
+  content: "›";
+  position: absolute;
+  left: 0.2em;
+  color: var(--accent);
+  font-weight: 700;
+}
+
+/* Shown after the last race of the season */
+.season-over h2 {
+  margin: 12px 0 6px;
+  font-family: var(--font-head);
+  font-size: clamp(2rem, 6vw, 3rem);
+  font-style: italic;
+  font-weight: 800;
+  text-transform: uppercase;
+}
+
+.season-over p {
+  margin: 0;
+  color: var(--muted);
+}
+
+/* ---------- Headlines ---------- */
+
+.headline-list {
+  display: grid;
+  gap: 12px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.headline {
+  padding: 16px 18px;
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-radius: 4px;
+}
+
+.headline-meta {
+  margin: 0 0 6px;
+  color: var(--muted);
+  font-size: 0.8rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+
+.headline-title {
+  margin: 0 0 8px;
+  font-family: var(--font-head);
+  font-size: 1.45rem;
+  font-weight: 700;
+  line-height: 1.15;
+}
+
+.headline-title a {
+  text-decoration: none;
+}
+
+.headline-title a:hover {
+  color: var(--accent);
+  text-decoration: underline;
+}
+
+.headline-title .arrow {
+  color: var(--accent);
+  font-size: 0.8em;
+}
+
+.why {
+  margin: 0;
+  color: #d1d5db;
+}
+
+/* ---------- Coming up ---------- */
+
+.upcoming-list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  border-top: 1px solid var(--line);
+}
+
+.upcoming-race {
+  display: grid;
+  grid-template-columns: 3rem 2rem 1fr auto;
+  grid-template-areas: "round flag name dates";
+  gap: 4px 12px;
+  align-items: center;
+  padding: 12px;
+  border-bottom: 1px solid var(--line);
+}
+
+.upcoming-round {
+  grid-area: round;
+  color: var(--muted);
+  font-family: var(--font-head);
+  font-weight: 700;
+}
+
+.upcoming-race .flag {
+  grid-area: flag;
+  font-size: 1.4rem;
+}
+
+.upcoming-name {
+  grid-area: name;
+  font-family: var(--font-head);
+  font-size: 1.2rem;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.upcoming-name .chip {
+  margin-left: 8px;
+  vertical-align: 2px;
+}
+
+.upcoming-dates {
+  grid-area: dates;
+  color: var(--muted);
+  font-variant-numeric: tabular-nums;
+  text-align: right;
+  white-space: nowrap;
+}
+
+/* ---------- Footer, loading and errors ---------- */
+
+.site-footer {
+  padding-block: 24px 40px;
+  border-top: 1px solid var(--line);
+  color: var(--muted);
+  font-size: 0.8rem;
+}
+
+.loading {
+  margin: 0;
+  color: var(--muted);
+}
+
+.error {
+  margin: 0;
+  color: #ffb4b4;
+}
+
+/* ---------- Phones ---------- */
+
+@media (max-width: 560px) {
+  .next-race {
+    padding: 18px 16px;
+  }
+
+  /* Session name on top, day and time underneath */
+  .session {
+    grid-template-columns: 1fr auto;
+    grid-template-areas:
+      "name name"
+      "day  time";
+  }
+
+  .session-time {
+    text-align: right;
+  }
+
+  /* Dates move under the race name */
+  .upcoming-race {
+    grid-template-columns: 2.5rem 2rem 1fr;
+    grid-template-areas:
+      "round flag name"
+      "round flag dates";
+  }
+
+  .upcoming-dates {
+    text-align: left;
+  }
+}

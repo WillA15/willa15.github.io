@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Fast Lap</title>
+  <meta name="description" content="An unofficial F1 fan site: the next race, the session times in your time zone, and the headlines to know before lights out.">
+
+  <!-- The little chequered-flag icon in the browser tab -->
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🏁</text></svg>">
+
+  <!-- Fonts from Google Fonts: Barlow Condensed for headings, Barlow for body text -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:ital,wght@0,600;0,700;1,800&family=Barlow:wght@400;600&display=swap">
+
+  <link rel="stylesheet" href="style.css">
+  <!-- "defer" runs the script after the page's HTML has loaded -->
+  <script src="script.js" defer></script>
+</head>
+<body>
+
+  <header class="site-header">
+    <div class="wrap">
+      <h1 class="logo">Fast<span>Lap</span></h1>
+      <p class="tagline">What to know before the 5 lights go out</p>
+      <!-- script.js fills this in from "lastUpdated" in data.json -->
+      <p class="updated" id="updated"></p>
+    </div>
+  </header>
+
+  <main class="wrap">
+
+    <!-- The next race. script.js picks it by date and builds everything inside. -->
+    <section class="next-race" id="next-race" aria-live="polite">
+      <p class="loading">Loading the next race…</p>
+    </section>
+
+    <section class="headlines" aria-labelledby="headlines-heading">
+      <h2 class="section-title" id="headlines-heading">Headlines</h2>
+      <ol class="headline-list" id="headline-list"></ol>
+    </section>
+
+    <section class="upcoming" id="upcoming" aria-labelledby="upcoming-heading">
+      <h2 class="section-title" id="upcoming-heading">Coming up</h2>
+      <ol class="upcoming-list" id="upcoming-list"></ol>
+    </section>
+
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap">
+      <p>
+        Fast Lap is an unofficial fan site. It is not associated in any way with the
+        Formula 1 companies or the FIA. F1, FORMULA ONE, FORMULA 1, FIA FORMULA ONE
+        WORLD CHAMPIONSHIP, GRAND PRIX and related marks are trade marks of Formula
+        One Licensing B.V.
+      </p>
+      <p>Headlines link to the original articles at their publishers.</p>
+    </div>
+  </footer>
+
+  <noscript>
+    <p class="wrap error">Fast Lap needs JavaScript turned on to show the races and headlines.</p>
+  </noscript>
+
+</body>
+</html>
