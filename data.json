@@ -1,190 +1,325 @@
 {
-  "lastUpdated": "2026-09-22",
+  "lastUpdated": "2026-10-08",
   "races": [
     {
       "round": 15,
       "name": "Azerbaijan Grand Prix",
-      "flag": "🇦🇿",
+      "flag": "\ud83c\udde6\ud83c\uddff",
       "circuit": "Baku City Circuit",
       "location": "Baku, Azerbaijan",
       "sprint": false,
       "sessions": [
-        { "name": "Practice 1", "start": "2026-09-24T08:30:00Z" },
-        { "name": "Practice 2", "start": "2026-09-24T12:00:00Z" },
-        { "name": "Practice 3", "start": "2026-09-25T08:30:00Z" },
-        { "name": "Qualifying", "start": "2026-09-25T12:00:00Z" },
-        { "name": "Race", "start": "2026-09-26T11:00:00Z" }
+        {
+          "name": "Practice 1",
+          "start": "2026-09-24T08:30:00Z"
+        },
+        {
+          "name": "Practice 2",
+          "start": "2026-09-24T12:00:00Z"
+        },
+        {
+          "name": "Practice 3",
+          "start": "2026-09-25T08:30:00Z"
+        },
+        {
+          "name": "Qualifying",
+          "start": "2026-09-25T12:00:00Z"
+        },
+        {
+          "name": "Race",
+          "start": "2026-09-26T11:00:00Z"
+        }
       ],
-      "watchFor": [
-        "It's a Saturday race: the whole weekend runs a day early (practice Thursday, qualifying Friday) to avoid clashing with Azerbaijan's Remembrance Day on Sept 27.",
-        "Baku mixes a very long flat-out run to Turn 1, prime overtaking territory, with a narrow castle section where the walls punish any mistake.",
-        "Antonelli arrives on a two-race winning streak. A bad day for him is the best chance his rivals have to reopen the title fight."
-      ]
+      "watchFor": []
     },
     {
       "round": 16,
       "name": "Bahrain Grand Prix in Malaysia",
-      "flag": "🇲🇾",
+      "flag": "\ud83c\uddf2\ud83c\uddfe",
       "circuit": "Sepang International Circuit",
       "location": "Sepang, Malaysia",
       "sprint": false,
       "sessions": [
-        { "name": "Practice 1", "start": "2026-10-02T04:30:00Z" },
-        { "name": "Practice 2", "start": "2026-10-02T08:00:00Z" },
-        { "name": "Practice 3", "start": "2026-10-03T04:30:00Z" },
-        { "name": "Qualifying", "start": "2026-10-03T08:00:00Z" },
-        { "name": "Race", "start": "2026-10-04T07:00:00Z" }
+        {
+          "name": "Practice 1",
+          "start": "2026-10-02T04:30:00Z"
+        },
+        {
+          "name": "Practice 2",
+          "start": "2026-10-02T08:00:00Z"
+        },
+        {
+          "name": "Practice 3",
+          "start": "2026-10-03T04:30:00Z"
+        },
+        {
+          "name": "Qualifying",
+          "start": "2026-10-03T08:00:00Z"
+        },
+        {
+          "name": "Race",
+          "start": "2026-10-04T07:00:00Z"
+        }
       ],
       "watchFor": []
     },
     {
       "round": 17,
       "name": "Singapore Grand Prix",
-      "flag": "🇸🇬",
+      "flag": "\ud83c\uddf8\ud83c\uddec",
       "circuit": "Marina Bay Street Circuit",
       "location": "Singapore",
       "sprint": true,
       "sessions": [
-        { "name": "Practice 1", "start": "2026-10-09T08:30:00Z" },
-        { "name": "Sprint Qualifying", "start": "2026-10-09T12:30:00Z" },
-        { "name": "Sprint", "start": "2026-10-10T09:00:00Z" },
-        { "name": "Qualifying", "start": "2026-10-10T13:00:00Z" },
-        { "name": "Race", "start": "2026-10-11T12:00:00Z" }
+        {
+          "name": "Practice 1",
+          "start": "2026-10-09T08:30:00Z"
+        },
+        {
+          "name": "Sprint Qualifying",
+          "start": "2026-10-09T12:30:00Z"
+        },
+        {
+          "name": "Sprint",
+          "start": "2026-10-10T09:00:00Z"
+        },
+        {
+          "name": "Qualifying",
+          "start": "2026-10-10T13:00:00Z"
+        },
+        {
+          "name": "Race",
+          "start": "2026-10-11T12:00:00Z"
+        }
       ],
-      "watchFor": []
+      "watchFor": [
+        "It's a sprint weekend with only one practice session, so teams have very little time to get the set-up right.",
+        "Mercedes are running two different car specs, with Antonelli on the Sepang upgrade and Russell on the older Baku package, so watch which one is faster.",
+        "Russell starts from the back with an engine penalty, and overtaking is hard at Marina Bay, so expect a safety car and strategy to matter."
+      ]
     },
     {
       "round": 18,
       "name": "United States Grand Prix",
-      "flag": "🇺🇸",
+      "flag": "\ud83c\uddfa\ud83c\uddf8",
       "circuit": "Circuit of the Americas",
       "location": "Austin, USA",
       "sprint": false,
       "sessions": [
-        { "name": "Practice 1", "start": "2026-10-23T17:30:00Z" },
-        { "name": "Practice 2", "start": "2026-10-23T21:00:00Z" },
-        { "name": "Practice 3", "start": "2026-10-24T17:30:00Z" },
-        { "name": "Qualifying", "start": "2026-10-24T21:00:00Z" },
-        { "name": "Race", "start": "2026-10-25T20:00:00Z" }
+        {
+          "name": "Practice 1",
+          "start": "2026-10-23T17:30:00Z"
+        },
+        {
+          "name": "Practice 2",
+          "start": "2026-10-23T21:00:00Z"
+        },
+        {
+          "name": "Practice 3",
+          "start": "2026-10-24T17:30:00Z"
+        },
+        {
+          "name": "Qualifying",
+          "start": "2026-10-24T21:00:00Z"
+        },
+        {
+          "name": "Race",
+          "start": "2026-10-25T20:00:00Z"
+        }
       ],
       "watchFor": []
     },
     {
       "round": 19,
       "name": "Mexico City Grand Prix",
-      "flag": "🇲🇽",
-      "circuit": "Autódromo Hermanos Rodríguez",
+      "flag": "\ud83c\uddf2\ud83c\uddfd",
+      "circuit": "Aut\u00f3dromo Hermanos Rodr\u00edguez",
       "location": "Mexico City, Mexico",
       "sprint": false,
       "sessions": [
-        { "name": "Practice 1", "start": "2026-10-30T18:30:00Z" },
-        { "name": "Practice 2", "start": "2026-10-30T22:00:00Z" },
-        { "name": "Practice 3", "start": "2026-10-31T17:30:00Z" },
-        { "name": "Qualifying", "start": "2026-10-31T21:00:00Z" },
-        { "name": "Race", "start": "2026-11-01T20:00:00Z" }
+        {
+          "name": "Practice 1",
+          "start": "2026-10-30T18:30:00Z"
+        },
+        {
+          "name": "Practice 2",
+          "start": "2026-10-30T22:00:00Z"
+        },
+        {
+          "name": "Practice 3",
+          "start": "2026-10-31T17:30:00Z"
+        },
+        {
+          "name": "Qualifying",
+          "start": "2026-10-31T21:00:00Z"
+        },
+        {
+          "name": "Race",
+          "start": "2026-11-01T20:00:00Z"
+        }
       ],
       "watchFor": []
     },
     {
       "round": 20,
-      "name": "São Paulo Grand Prix",
-      "flag": "🇧🇷",
+      "name": "S\u00e3o Paulo Grand Prix",
+      "flag": "\ud83c\udde7\ud83c\uddf7",
       "circuit": "Interlagos",
-      "location": "São Paulo, Brazil",
+      "location": "S\u00e3o Paulo, Brazil",
       "sprint": false,
       "sessions": [
-        { "name": "Practice 1", "start": "2026-11-06T15:30:00Z" },
-        { "name": "Practice 2", "start": "2026-11-06T19:00:00Z" },
-        { "name": "Practice 3", "start": "2026-11-07T14:30:00Z" },
-        { "name": "Qualifying", "start": "2026-11-07T18:00:00Z" },
-        { "name": "Race", "start": "2026-11-08T17:00:00Z" }
+        {
+          "name": "Practice 1",
+          "start": "2026-11-06T15:30:00Z"
+        },
+        {
+          "name": "Practice 2",
+          "start": "2026-11-06T19:00:00Z"
+        },
+        {
+          "name": "Practice 3",
+          "start": "2026-11-07T14:30:00Z"
+        },
+        {
+          "name": "Qualifying",
+          "start": "2026-11-07T18:00:00Z"
+        },
+        {
+          "name": "Race",
+          "start": "2026-11-08T17:00:00Z"
+        }
       ],
       "watchFor": []
     },
     {
       "round": 21,
       "name": "Las Vegas Grand Prix",
-      "flag": "🇺🇸",
+      "flag": "\ud83c\uddfa\ud83c\uddf8",
       "circuit": "Las Vegas Strip Circuit",
       "location": "Las Vegas, USA",
       "sprint": false,
       "sessions": [
-        { "name": "Practice 1", "start": "2026-11-20T00:30:00Z" },
-        { "name": "Practice 2", "start": "2026-11-20T04:00:00Z" },
-        { "name": "Practice 3", "start": "2026-11-21T00:30:00Z" },
-        { "name": "Qualifying", "start": "2026-11-21T04:00:00Z" },
-        { "name": "Race", "start": "2026-11-22T04:00:00Z" }
+        {
+          "name": "Practice 1",
+          "start": "2026-11-20T00:30:00Z"
+        },
+        {
+          "name": "Practice 2",
+          "start": "2026-11-20T04:00:00Z"
+        },
+        {
+          "name": "Practice 3",
+          "start": "2026-11-21T00:30:00Z"
+        },
+        {
+          "name": "Qualifying",
+          "start": "2026-11-21T04:00:00Z"
+        },
+        {
+          "name": "Race",
+          "start": "2026-11-22T04:00:00Z"
+        }
       ],
       "watchFor": []
     },
     {
       "round": 22,
       "name": "Qatar Grand Prix",
-      "flag": "🇶🇦",
+      "flag": "\ud83c\uddf6\ud83c\udde6",
       "circuit": "Lusail International Circuit",
       "location": "Lusail, Qatar",
       "sprint": false,
       "sessions": [
-        { "name": "Practice 1", "start": "2026-11-27T13:30:00Z" },
-        { "name": "Practice 2", "start": "2026-11-27T17:00:00Z" },
-        { "name": "Practice 3", "start": "2026-11-28T14:30:00Z" },
-        { "name": "Qualifying", "start": "2026-11-28T18:00:00Z" },
-        { "name": "Race", "start": "2026-11-29T16:00:00Z" }
+        {
+          "name": "Practice 1",
+          "start": "2026-11-27T13:30:00Z"
+        },
+        {
+          "name": "Practice 2",
+          "start": "2026-11-27T17:00:00Z"
+        },
+        {
+          "name": "Practice 3",
+          "start": "2026-11-28T14:30:00Z"
+        },
+        {
+          "name": "Qualifying",
+          "start": "2026-11-28T18:00:00Z"
+        },
+        {
+          "name": "Race",
+          "start": "2026-11-29T16:00:00Z"
+        }
       ],
       "watchFor": []
     },
     {
       "round": 23,
       "name": "Abu Dhabi Grand Prix",
-      "flag": "🇦🇪",
+      "flag": "\ud83c\udde6\ud83c\uddea",
       "circuit": "Yas Marina Circuit",
       "location": "Abu Dhabi, UAE",
       "sprint": false,
       "sessions": [
-        { "name": "Practice 1", "start": "2026-12-04T09:30:00Z" },
-        { "name": "Practice 2", "start": "2026-12-04T13:00:00Z" },
-        { "name": "Practice 3", "start": "2026-12-05T10:30:00Z" },
-        { "name": "Qualifying", "start": "2026-12-05T14:00:00Z" },
-        { "name": "Race", "start": "2026-12-06T13:00:00Z" }
+        {
+          "name": "Practice 1",
+          "start": "2026-12-04T09:30:00Z"
+        },
+        {
+          "name": "Practice 2",
+          "start": "2026-12-04T13:00:00Z"
+        },
+        {
+          "name": "Practice 3",
+          "start": "2026-12-05T10:30:00Z"
+        },
+        {
+          "name": "Qualifying",
+          "start": "2026-12-05T14:00:00Z"
+        },
+        {
+          "name": "Race",
+          "start": "2026-12-06T13:00:00Z"
+        }
       ],
       "watchFor": []
     }
   ],
   "headlines": [
     {
-      "date": "2026-09-22",
-      "title": "Antonelli could be champion as early as Singapore",
-      "whyItMatters": "He leads Mercedes team mate George Russell by 81 points with 233 still up for grabs. If he wins everything in Baku, Sepang and Singapore while Russell scores nothing, he's champion on Oct 11, so every race now either tightens his grip or gives his rivals hope.",
+      "date": "2026-10-08",
+      "title": "Russell faces a back-of-the-grid start in Singapore",
+      "whyItMatters": "A fresh power unit after his Sepang retirement means a grid penalty of at least ten places at one of the hardest tracks to pass on, and he trails title leader Antonelli by 84 points.",
       "source": "Formula1.com",
-      "url": "https://www.formula1.com/en/latest/article/points-permutations-when-is-the-earliest-antonelli-could-win-the-world-championship.24UKT2fsQl4GmC5DMrmYUy"
+      "url": "https://www.formula1.com/en/latest/article/russell-promises-all-out-attack-from-back-of-singapore-grid-amid-engine-penalty.1Owe717iaaEqDioJZqUyaJ"
     },
     {
-      "date": "2026-09-22",
-      "title": "Hadjar is back at Red Bull after a wrist injury",
-      "whyItMatters": "Isack Hadjar missed Zandvoort, Monza and Madrid, so Baku is his first race since July. Stand-in Liam Lawson, sixth in Madrid, heads back to Racing Bulls and Yuki Tsunoda returns to the reserve role.",
+      "date": "2026-10-08",
+      "title": "Mercedes will run two different car specs in Singapore",
+      "whyItMatters": "Antonelli keeps the Sepang upgrade while Russell goes back to his Baku-winning package, giving the team a direct comparison to learn why the update underwhelmed.",
       "source": "Formula1.com",
-      "url": "https://www.formula1.com/en/latest/article/hadjar-to-make-racing-return-with-red-bull-at-azerbaijan-gp.1ddPnUSDEze0V9MCiQ9d2U"
+      "url": "https://www.formula1.com/en/latest/article/why-splitting-car-specifications-is-a-no-brainer-for-mercedes-at-the-singapore-grand-prix.44OonD5CF8Eg4yQ2w5REwh"
     },
     {
-      "date": "2026-09-13",
-      "title": "Antonelli wins in Madrid after a perfectly timed pit stop",
-      "whyItMatters": "Lando Norris led from pole until a Virtual Safety Car let Mercedes pit Antonelli while the field was slowed, and a slow McLaren stop dropped Norris to third behind Max Verstappen. It was Antonelli's eighth win of the season.",
+      "date": "2026-10-08",
+      "title": "Antonelli says Mercedes will work out its upgrade puzzle",
+      "whyItMatters": "Mercedes want to get back to winning in Singapore, and understanding why the latest parts haven't delivered is key to protecting Antonelli's championship lead.",
       "source": "Formula1.com",
-      "url": "https://www.formula1.com/en/latest/article/antonelli-clinches-victory-over-verstappen-and-norris-in-spanish-gp.644ZZfPzRPEaUh2JBHcB9"
+      "url": "https://www.formula1.com/en/latest/article/antonelli-explains-how-mercedes-will-find-an-answer-to-unlocking-upgrades-in-singapore.6wh8R3l6YtmHaT4J5M6W8T"
     },
     {
-      "date": "2026-08-20",
-      "title": "Verstappen commits to Red Bull until the end of 2030",
-      "whyItMatters": "The four-time champion's new deal ends a season and a half of speculation about a move to a rival team. He's still chasing his first win of 2026 and finished second in Madrid.",
-      "source": "The Race",
-      "url": "https://www.the-race.com/formula-1/max-verstappen-red-bull-f1-contract-2030-extended-deal/"
+      "date": "2026-10-08",
+      "title": "Norris admits McLaren underperformed in Baku and Sepang",
+      "whyItMatters": "After a strong run of poles and wins, McLaren lost ground with straight-line speed problems, so Singapore shows whether they have fixed it.",
+      "source": "Formula1.com",
+      "url": "https://www.formula1.com/en/latest/article/norris-hopeful-recent-straight-line-speed-issue-will-be-cured-in-singapore-as-he-admits-mclaren-need-to-do-a-better-job.7GhQrU0cCJGpY9v8lxyTkp"
     },
     {
-      "date": "2026-07-26",
-      "title": "The Bahrain Grand Prix moves to Malaysia's Sepang circuit",
-      "whyItMatters": "Conflict in the Middle East cancelled April's races in Bahrain and Saudi Arabia, so Bahrain's race is being held at Sepang on Oct 2–4. It's F1's first visit to Malaysia since 2017, at a track known for unpredictable tropical weather.",
-      "source": "Sky Sports",
-      "url": "https://www.skysports.com/f1/news/12433/13566600/malaysia-added-to-2026-f1-calendar-in-october-to-host-postponed-bahrain-gp-amid-continued-conflict-in-middle-east"
+      "date": "2026-10-08",
+      "title": "Verstappen is chasing a Singapore win after ending his drought",
+      "whyItMatters": "His Sepang victory was his first of 2026, but he warns Red Bull's pace isn't guaranteed on a street circuit where he has never won.",
+      "source": "Formula1.com",
+      "url": "https://www.formula1.com/en/latest/article/there-are-no-guarantees-verstappen-evaluates-chances-of-long-awaited-singapore-win.32IJkWTcOpZXZObCiSlHA6"
     }
   ]
 }
