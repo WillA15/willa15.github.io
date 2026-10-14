@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-08",
+  "lastUpdated": "2026-10-14",
   "races": [
     {
       "round": 15,
@@ -92,11 +92,7 @@
           "start": "2026-10-11T12:00:00Z"
         }
       ],
-      "watchFor": [
-        "It's a sprint weekend with only one practice session, so teams have very little time to get the set-up right.",
-        "Mercedes are running two different car specs, with Antonelli on the Sepang upgrade and Russell on the older Baku package, so watch which one is faster.",
-        "Russell starts from the back with an engine penalty, and overtaking is hard at Marina Bay, so expect a safety car and strategy to matter."
-      ]
+      "watchFor": []
     },
     {
       "round": 18,
@@ -287,39 +283,39 @@
   ],
   "headlines": [
     {
-      "date": "2026-10-08",
-      "title": "Russell faces a back-of-the-grid start in Singapore",
-      "whyItMatters": "A fresh power unit after his Sepang retirement means a grid penalty of at least ten places at one of the hardest tracks to pass on, and he trails title leader Antonelli by 84 points.",
+      "date": "2026-10-13",
+      "title": "F1 signs a 10-year deal to race in Rwanda",
+      "whyItMatters": "It will be the first Grand Prix in Africa since 1993, held at a new circuit near Kigali that is expected to be ready early in the 2030s.",
       "source": "Formula1.com",
-      "url": "https://www.formula1.com/en/latest/article/russell-promises-all-out-attack-from-back-of-singapore-grid-amid-engine-penalty.1Owe717iaaEqDioJZqUyaJ"
+      "url": "https://www.formula1.com/en/latest/article/formula-1-returns-to-africa-with-10-year-agreement-to-race-in-rwanda.13xs9VMK7cGFiBd2IplyES"
     },
     {
-      "date": "2026-10-08",
-      "title": "Mercedes will run two different car specs in Singapore",
-      "whyItMatters": "Antonelli keeps the Sepang upgrade while Russell goes back to his Baku-winning package, giving the team a direct comparison to learn why the update underwhelmed.",
+      "date": "2026-10-13",
+      "title": "Ferrari's strategy call cost Hamilton a shot at the Singapore podium",
+      "whyItMatters": "Staying out on worn soft tyres during the Virtual Safety Car dropped him down the order, a reminder that pit timing can decide races as much as pace.",
       "source": "Formula1.com",
-      "url": "https://www.formula1.com/en/latest/article/why-splitting-car-specifications-is-a-no-brainer-for-mercedes-at-the-singapore-grand-prix.44OonD5CF8Eg4yQ2w5REwh"
+      "url": "https://www.formula1.com/en/latest/article/what-really-cost-lewis-hamilton-a-podium-in-singapore.4OsGotxiP08t92cvjeXO4y"
     },
     {
-      "date": "2026-10-08",
-      "title": "Antonelli says Mercedes will work out its upgrade puzzle",
-      "whyItMatters": "Mercedes want to get back to winning in Singapore, and understanding why the latest parts haven't delivered is key to protecting Antonelli's championship lead.",
+      "date": "2026-10-12",
+      "title": "Wolff warns Red Bull are becoming a real threat to Mercedes",
+      "whyItMatters": "Verstappen has beaten Mercedes in a straight fight two weekends running, so Austin will show whether Red Bull's surge is here to stay.",
       "source": "Formula1.com",
-      "url": "https://www.formula1.com/en/latest/article/antonelli-explains-how-mercedes-will-find-an-answer-to-unlocking-upgrades-in-singapore.6wh8R3l6YtmHaT4J5M6W8T"
+      "url": "https://www.formula1.com/en/latest/article/its-full-on-wolff-wary-of-growing-red-bull-threat-to-mercedes.6maHMRSn0IJZPbu3GkUVzX"
     },
     {
-      "date": "2026-10-08",
-      "title": "Norris admits McLaren underperformed in Baku and Sepang",
-      "whyItMatters": "After a strong run of poles and wins, McLaren lost ground with straight-line speed problems, so Singapore shows whether they have fixed it.",
+      "date": "2026-10-12",
+      "title": "Mekies credits Verstappen's feedback for Red Bull's comeback",
+      "whyItMatters": "Red Bull's upgrades followed Verstappen's lead on what was slowing the car, turning a weak start to the season into back-to-back wins in Malaysia and Singapore.",
       "source": "Formula1.com",
-      "url": "https://www.formula1.com/en/latest/article/norris-hopeful-recent-straight-line-speed-issue-will-be-cured-in-singapore-as-he-admits-mclaren-need-to-do-a-better-job.7GhQrU0cCJGpY9v8lxyTkp"
+      "url": "https://www.formula1.com/en/latest/article/its-a-massive-boost-mekies-hails-outstanding-verstappen-in-red-bull-resurgence.1SJ9jPPGYuqQ8X7ASQo2KY"
     },
     {
-      "date": "2026-10-08",
-      "title": "Verstappen is chasing a Singapore win after ending his drought",
-      "whyItMatters": "His Sepang victory was his first of 2026, but he warns Red Bull's pace isn't guaranteed on a street circuit where he has never won.",
+      "date": "2026-10-12",
+      "title": "Lawson scores twice in Singapore but his 2027 seat is still unclear",
+      "whyItMatters": "He took points in both the Sprint and the Grand Prix for Racing Bulls, and every result now counts as he fights to keep his place next year.",
       "source": "Formula1.com",
-      "url": "https://www.formula1.com/en/latest/article/there-are-no-guarantees-verstappen-evaluates-chances-of-long-awaited-singapore-win.32IJkWTcOpZXZObCiSlHA6"
+      "url": "https://www.formula1.com/en/latest/article/you-tell-me-lawson-assesses-odds-of-keeping-his-racing-bulls-seat-after-mighty-singapore-showing.BaSVOgDL3bgtO4WT94pl2"
     }
   ]
 }
