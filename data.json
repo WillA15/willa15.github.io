@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-14",
+  "lastUpdated": "2026-10-21",
   "races": [
     {
       "round": 15,
@@ -123,7 +123,11 @@
           "start": "2026-10-25T20:00:00Z"
         }
       ],
-      "watchFor": []
+      "watchFor": [
+        "Kimi Antonelli leads by 102 points and could, in theory, clinch the title in Austin.",
+        "Max Verstappen has won the last two Grands Prix and is chasing a fifth COTA victory.",
+        "Hot, dry running is forecast, with gusty winds and a 20% chance of rain on race day."
+      ]
     },
     {
       "round": 19,
@@ -283,39 +287,39 @@
   ],
   "headlines": [
     {
-      "date": "2026-10-13",
-      "title": "F1 signs a 10-year deal to race in Rwanda",
-      "whyItMatters": "It will be the first Grand Prix in Africa since 1993, held at a new circuit near Kigali that is expected to be ready early in the 2030s.",
+      "date": "2026-10-21",
+      "title": "Pirelli brings the C2, C3 and C4 tyres to Austin",
+      "whyItMatters": "The durable C2 hard makes a one-stop race likely, but the Texas heat could raise wear and open the door to different strategies.",
       "source": "Formula1.com",
-      "url": "https://www.formula1.com/en/latest/article/formula-1-returns-to-africa-with-10-year-agreement-to-race-in-rwanda.13xs9VMK7cGFiBd2IplyES"
+      "url": "https://www.formula1.com/en/latest/article/what-tyres-will-the-teams-and-drivers-have-for-the-2026-united-states-grand-prix.44LKddYSbUJK1LxMAa6VLI"
     },
     {
-      "date": "2026-10-13",
-      "title": "Ferrari's strategy call cost Hamilton a shot at the Singapore podium",
-      "whyItMatters": "Staying out on worn soft tyres during the Virtual Safety Car dropped him down the order, a reminder that pit timing can decide races as much as pace.",
+      "date": "2026-10-20",
+      "title": "Red Bull and Audi's sidepod trick will be banned for 2027",
+      "whyItMatters": "A floor stay exemption has let both teams run sharper sidepod shapes this year, and the FIA's rule change will cut that advantage next season.",
       "source": "Formula1.com",
-      "url": "https://www.formula1.com/en/latest/article/what-really-cost-lewis-hamilton-a-podium-in-singapore.4OsGotxiP08t92cvjeXO4y"
+      "url": "https://www.formula1.com/en/latest/article/the-floor-stay-loophole-behind-red-bull-and-audis-sidepods-and-why-it-is-being-closed-for-2027.4rwr2rImgcIIHLCLed473w"
     },
     {
-      "date": "2026-10-12",
-      "title": "Wolff warns Red Bull are becoming a real threat to Mercedes",
-      "whyItMatters": "Verstappen has beaten Mercedes in a straight fight two weekends running, so Austin will show whether Red Bull's surge is here to stay.",
+      "date": "2026-10-20",
+      "title": "Palmer says the upgraded Red Bull no longer has a clear weakness",
+      "whyItMatters": "Verstappen has dropped only six points to Antonelli across the last 11 races, so Red Bull look like the team to beat in the run-in.",
       "source": "Formula1.com",
-      "url": "https://www.formula1.com/en/latest/article/its-full-on-wolff-wary-of-growing-red-bull-threat-to-mercedes.6maHMRSn0IJZPbu3GkUVzX"
+      "url": "https://www.formula1.com/en/latest/article/i-dont-see-a-weakness-what-could-formidable-red-bull-achieve-after-massive-resurgence.5qNK8tS9Gi6aw3lCdaBGz3"
     },
     {
-      "date": "2026-10-12",
-      "title": "Mekies credits Verstappen's feedback for Red Bull's comeback",
-      "whyItMatters": "Red Bull's upgrades followed Verstappen's lead on what was slowing the car, turning a weak start to the season into back-to-back wins in Malaysia and Singapore.",
+      "date": "2026-10-20",
+      "title": "New team boss Budkowski sets out his plans for Cadillac",
+      "whyItMatters": "He replaced Graeme Lowdon in the summer and heads into Cadillac's home race wanting to borrow what works at top teams while building the team's own culture.",
       "source": "Formula1.com",
-      "url": "https://www.formula1.com/en/latest/article/its-a-massive-boost-mekies-hails-outstanding-verstappen-in-red-bull-resurgence.1SJ9jPPGYuqQ8X7ASQo2KY"
+      "url": "https://www.formula1.com/en/latest/article/exclusive-marcin-budkowski-on-shaping-cadillacs-next-chapter-creating-a-winning-culture-and-being-in-action-mode.MgVub5whPnC4Rn1VU5T1i"
     },
     {
-      "date": "2026-10-12",
-      "title": "Lawson scores twice in Singapore but his 2027 seat is still unclear",
-      "whyItMatters": "He took points in both the Sprint and the Grand Prix for Racing Bulls, and every result now counts as he fights to keep his place next year.",
+      "date": "2026-10-19",
+      "title": "Antonelli could be crowned champion as early as Austin",
+      "whyItMatters": "His 102-point lead means a big weekend in Texas could settle the title with races to spare, unless in-form Verstappen keeps winning.",
       "source": "Formula1.com",
-      "url": "https://www.formula1.com/en/latest/article/you-tell-me-lawson-assesses-odds-of-keeping-his-racing-bulls-seat-after-mighty-singapore-showing.BaSVOgDL3bgtO4WT94pl2"
+      "url": "https://www.formula1.com/en/latest/article/what-time-is-the-formula-1-2026-united-states-grand-prix-and-how-can-i-watch-it.5jZFEoK96n4tpbRzEJjRoH"
     }
   ]
 }
