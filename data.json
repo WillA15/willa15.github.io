@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-21",
+  "lastUpdated": "2026-10-28",
   "races": [
     {
       "round": 15,
@@ -123,11 +123,7 @@
           "start": "2026-10-25T20:00:00Z"
         }
       ],
-      "watchFor": [
-        "Kimi Antonelli leads by 102 points and could, in theory, clinch the title in Austin.",
-        "Max Verstappen has won the last two Grands Prix and is chasing a fifth COTA victory.",
-        "Hot, dry running is forecast, with gusty winds and a 20% chance of rain on race day."
-      ]
+      "watchFor": []
     },
     {
       "round": 19,
@@ -158,7 +154,11 @@
           "start": "2026-11-01T20:00:00Z"
         }
       ],
-      "watchFor": []
+      "watchFor": [
+        "Kimi Antonelli can clinch the title this weekend: George Russell and Lewis Hamilton both need to win just to keep their hopes alive.",
+        "At 2,250m the thin air cuts downforce and cooling, so engine and brake trouble is common and teams run their lowest downforce of the year.",
+        "Sergio Perez makes his 300th F1 start at his home race, days after extending his Cadillac deal."
+      ]
     },
     {
       "round": 20,
@@ -287,39 +287,39 @@
   ],
   "headlines": [
     {
-      "date": "2026-10-21",
-      "title": "Pirelli brings the C2, C3 and C4 tyres to Austin",
-      "whyItMatters": "The durable C2 hard makes a one-stop race likely, but the Texas heat could raise wear and open the door to different strategies.",
+      "date": "2026-10-28",
+      "title": "Perez commits to Cadillac until at least 2029",
+      "whyItMatters": "Cadillac keeps the driver who has had the edge over Bottas this season, and he marks the news with his 300th start in front of his home crowd.",
       "source": "Formula1.com",
-      "url": "https://www.formula1.com/en/latest/article/what-tyres-will-the-teams-and-drivers-have-for-the-2026-united-states-grand-prix.44LKddYSbUJK1LxMAa6VLI"
+      "url": "https://www.formula1.com/en/latest/article/perez-signs-contract-extension-to-remain-at-cadillac-until-at-least-2029.4oF3HFX8tK9qTWvU7wAXHM"
     },
     {
-      "date": "2026-10-20",
-      "title": "Red Bull and Audi's sidepod trick will be banned for 2027",
-      "whyItMatters": "A floor stay exemption has let both teams run sharper sidepod shapes this year, and the FIA's rule change will cut that advantage next season.",
+      "date": "2026-10-28",
+      "title": "Bottas's 2027 Cadillac seat is not yet secure",
+      "whyItMatters": "Cadillac hasn't taken up the option on his contract, and with eight retirements this year he faces a challenge from Colton Herta.",
       "source": "Formula1.com",
-      "url": "https://www.formula1.com/en/latest/article/the-floor-stay-loophole-behind-red-bull-and-audis-sidepods-and-why-it-is-being-closed-for-2027.4rwr2rImgcIIHLCLed473w"
+      "url": "https://www.formula1.com/en/latest/article/analysis-what-does-the-future-hold-for-bottas-at-cadillac.1KzNAtutw1HxVernUWD5TG"
     },
     {
-      "date": "2026-10-20",
-      "title": "Palmer says the upgraded Red Bull no longer has a clear weakness",
-      "whyItMatters": "Verstappen has dropped only six points to Antonelli across the last 11 races, so Red Bull look like the team to beat in the run-in.",
+      "date": "2026-10-28",
+      "title": "Ferrari's Austin upgrade was bigger than Hamilton let on",
+      "whyItMatters": "New floor, sidepod and diffuser parts matter in a tight fight: Hamilton is just one point behind Russell for second in the championship.",
       "source": "Formula1.com",
-      "url": "https://www.formula1.com/en/latest/article/i-dont-see-a-weakness-what-could-formidable-red-bull-achieve-after-massive-resurgence.5qNK8tS9Gi6aw3lCdaBGz3"
+      "url": "https://www.formula1.com/en/latest/article/what-went-into-ferraris-latest-upgrade-package-in-the-united-states.3I72X1Dos3Nty2sNxMfDD4"
     },
     {
-      "date": "2026-10-20",
-      "title": "New team boss Budkowski sets out his plans for Cadillac",
-      "whyItMatters": "He replaced Graeme Lowdon in the summer and heads into Cadillac's home race wanting to borrow what works at top teams while building the team's own culture.",
+      "date": "2026-10-27",
+      "title": "Wolff calls Antonelli's Austin win his best race yet",
+      "whyItMatters": "He turned a pole Mercedes hadn't expected into a controlled victory, showing the title leader can win without drama.",
       "source": "Formula1.com",
-      "url": "https://www.formula1.com/en/latest/article/exclusive-marcin-budkowski-on-shaping-cadillacs-next-chapter-creating-a-winning-culture-and-being-in-action-mode.MgVub5whPnC4Rn1VU5T1i"
+      "url": "https://www.formula1.com/en/latest/article/was-antonellis-us-grand-prix-victory-his-most-dominant-win-yet.6jLJgm7H1yfJHHC3moJ4k4"
     },
     {
-      "date": "2026-10-19",
-      "title": "Antonelli could be crowned champion as early as Austin",
-      "whyItMatters": "His 102-point lead means a big weekend in Texas could settle the title with races to spare, unless in-form Verstappen keeps winning.",
+      "date": "2026-10-27",
+      "title": "Antonelli is set to be crowned champion in Mexico City",
+      "whyItMatters": "After winning in Austin he is on the brink of the title, and only a win for Russell or Hamilton can keep the fight going.",
       "source": "Formula1.com",
-      "url": "https://www.formula1.com/en/latest/article/what-time-is-the-formula-1-2026-united-states-grand-prix-and-how-can-i-watch-it.5jZFEoK96n4tpbRzEJjRoH"
+      "url": "https://www.formula1.com/en/latest/article/what-time-is-the-formula-1-2026-mexico-city-grand-prix-and-how-can-i-watch-it.7ugr1iuBkVF1pD5fqJHNA3"
     }
   ]
 }
