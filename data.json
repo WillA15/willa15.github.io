@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-28",
+  "lastUpdated": "2026-11-04",
   "races": [
     {
       "round": 15,
@@ -154,11 +154,7 @@
           "start": "2026-11-01T20:00:00Z"
         }
       ],
-      "watchFor": [
-        "Kimi Antonelli can clinch the title this weekend: George Russell and Lewis Hamilton both need to win just to keep their hopes alive.",
-        "At 2,250m the thin air cuts downforce and cooling, so engine and brake trouble is common and teams run their lowest downforce of the year.",
-        "Sergio Perez makes his 300th F1 start at his home race, days after extending his Cadillac deal."
-      ]
+      "watchFor": []
     },
     {
       "round": 20,
@@ -189,7 +185,11 @@
           "start": "2026-11-08T17:00:00Z"
         }
       ],
-      "watchFor": []
+      "watchFor": [
+        "Mercedes can wrap up the Teams' title: they lead Ferrari by 126 points and only need to outscore them by three in Brazil.",
+        "Home hero Rafael Camara makes his F1 debut for Haas after Esteban Ocon was dropped, and FP1 will be his first run in a 2026 car.",
+        "Watch Hamilton and Leclerc: Fred Vasseur promised clear-the-air talks after their first-lap tussle in Mexico handed Verstappen the win."
+      ]
     },
     {
       "round": 21,
@@ -287,39 +287,39 @@
   ],
   "headlines": [
     {
-      "date": "2026-10-28",
-      "title": "Perez commits to Cadillac until at least 2029",
-      "whyItMatters": "Cadillac keeps the driver who has had the edge over Bottas this season, and he marks the news with his 300th start in front of his home crowd.",
+      "date": "2026-11-04",
+      "title": "Antonelli is champion, and Mercedes could finish the job in Brazil",
+      "whyItMatters": "Third place in Mexico sealed Antonelli's drivers' crown, and if Mercedes outscore Ferrari by three points at Interlagos the teams' title is theirs too.",
       "source": "Formula1.com",
-      "url": "https://www.formula1.com/en/latest/article/perez-signs-contract-extension-to-remain-at-cadillac-until-at-least-2029.4oF3HFX8tK9qTWvU7wAXHM"
+      "url": "https://www.formula1.com/en/latest/article/points-permutations-when-could-mercedes-win-the-2026-f1-teams-championship.73hdGVkJl9FHxEvDNlNZKq"
     },
     {
-      "date": "2026-10-28",
-      "title": "Bottas's 2027 Cadillac seat is not yet secure",
-      "whyItMatters": "Cadillac hasn't taken up the option on his contract, and with eight retirements this year he faces a challenge from Colton Herta.",
+      "date": "2026-11-04",
+      "title": "Haas hand Camara a surprise home debut after dropping Ocon",
+      "whyItMatters": "The F2 leader was due to join in 2027, but with Ocon gone and Hirakawa at the WEC finale he gets his first F1 race at Interlagos.",
       "source": "Formula1.com",
-      "url": "https://www.formula1.com/en/latest/article/analysis-what-does-the-future-hold-for-bottas-at-cadillac.1KzNAtutw1HxVernUWD5TG"
+      "url": "https://www.formula1.com/en/latest/article/camara-concedes-there-is-a-lot-to-learn-ahead-of-special-f1-debut-with-haas-in-sao-paulo.28dp6c9ntdxBu0xmEWAAUm"
     },
     {
-      "date": "2026-10-28",
-      "title": "Ferrari's Austin upgrade was bigger than Hamilton let on",
-      "whyItMatters": "New floor, sidepod and diffuser parts matter in a tight fight: Hamilton is just one point behind Russell for second in the championship.",
+      "date": "2026-11-04",
+      "title": "Vasseur unhappy after Ferrari's drivers fought each other in Mexico",
+      "whyItMatters": "Hamilton and Leclerc ran wide battling for the lead on lap one, gifting Verstappen the win, and the boss wants talks before Brazil.",
       "source": "Formula1.com",
-      "url": "https://www.formula1.com/en/latest/article/what-went-into-ferraris-latest-upgrade-package-in-the-united-states.3I72X1Dos3Nty2sNxMfDD4"
+      "url": "https://www.formula1.com/en/latest/article/its-race-week-5-storylines-were-excited-about-ahead-of-the-2026-sao-paulo-grand-prix.6Pvk4v10hKccs7IS4X667x"
     },
     {
-      "date": "2026-10-27",
-      "title": "Wolff calls Antonelli's Austin win his best race yet",
-      "whyItMatters": "He turned a pole Mercedes hadn't expected into a controlled victory, showing the title leader can win without drama.",
+      "date": "2026-11-04",
+      "title": "Bottas walks away from a big suspension-failure crash",
+      "whyItMatters": "He should be fit for Brazil, but it was another non-finish at a time when his Cadillac seat for 2027 is already in doubt.",
       "source": "Formula1.com",
-      "url": "https://www.formula1.com/en/latest/article/was-antonellis-us-grand-prix-victory-his-most-dominant-win-yet.6jLJgm7H1yfJHHC3moJ4k4"
+      "url": "https://www.formula1.com/en/latest/article/thankfully-im-okay-bottas-reacts-to-mexico-city-grand-prix-crash.z2CM4Jz6qwFerJGjQlaPB"
     },
     {
-      "date": "2026-10-27",
-      "title": "Antonelli is set to be crowned champion in Mexico City",
-      "whyItMatters": "After winning in Austin he is on the brink of the title, and only a win for Russell or Hamilton can keep the fight going.",
+      "date": "2026-11-04",
+      "title": "Honda cooling trouble ends both Aston Martins' races after five laps",
+      "whyItMatters": "The altitude exposed a weakness in the power unit's energy-recovery cooling, though Alonso says next year's all-new engine gives him hope.",
       "source": "Formula1.com",
-      "url": "https://www.formula1.com/en/latest/article/what-time-is-the-formula-1-2026-mexico-city-grand-prix-and-how-can-i-watch-it.7ugr1iuBkVF1pD5fqJHNA3"
+      "url": "https://www.formula1.com/en/latest/article/why-aston-martins-mexico-city-grand-prix-ended-after-five-laps.2j9GYm3FSjAOGu23hmaMTA"
     }
   ]
 }
