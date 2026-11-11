@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-04",
+  "lastUpdated": "2026-11-11",
   "races": [
     {
       "round": 15,
@@ -185,11 +185,7 @@
           "start": "2026-11-08T17:00:00Z"
         }
       ],
-      "watchFor": [
-        "Mercedes can wrap up the Teams' title: they lead Ferrari by 126 points and only need to outscore them by three in Brazil.",
-        "Home hero Rafael Camara makes his F1 debut for Haas after Esteban Ocon was dropped, and FP1 will be his first run in a 2026 car.",
-        "Watch Hamilton and Leclerc: Fred Vasseur promised clear-the-air talks after their first-lap tussle in Mexico handed Verstappen the win."
-      ]
+      "watchFor": []
     },
     {
       "round": 21,
@@ -287,39 +283,39 @@
   ],
   "headlines": [
     {
-      "date": "2026-11-04",
-      "title": "Antonelli is champion, and Mercedes could finish the job in Brazil",
-      "whyItMatters": "Third place in Mexico sealed Antonelli's drivers' crown, and if Mercedes outscore Ferrari by three points at Interlagos the teams' title is theirs too.",
+      "date": "2026-11-11",
+      "title": "Mercedes win the 2026 Constructors' Championship in Brazil",
+      "whyItMatters": "Fourth for Russell and fifth for new champion Antonelli were enough to land the team's ninth constructors' crown and first since 2021.",
       "source": "Formula1.com",
-      "url": "https://www.formula1.com/en/latest/article/points-permutations-when-could-mercedes-win-the-2026-f1-teams-championship.73hdGVkJl9FHxEvDNlNZKq"
+      "url": "https://www.formula1.com/en/latest/article/rivals-congratulate-mercedes-on-2026-constructors-championship-after-sao-paulo-gp.5mQ3BkVs5HLP8LE8PduoWY"
     },
     {
-      "date": "2026-11-04",
-      "title": "Haas hand Camara a surprise home debut after dropping Ocon",
-      "whyItMatters": "The F2 leader was due to join in 2027, but with Ocon gone and Hirakawa at the WEC finale he gets his first F1 race at Interlagos.",
+      "date": "2026-11-11",
+      "title": "Norris masters the Interlagos rain with a standout victory",
+      "whyItMatters": "Jolyon Palmer rates the win among Norris's best, as McLaren got the tricky wet-dry conditions right while others slipped up.",
       "source": "Formula1.com",
-      "url": "https://www.formula1.com/en/latest/article/camara-concedes-there-is-a-lot-to-learn-ahead-of-special-f1-debut-with-haas-in-sao-paulo.28dp6c9ntdxBu0xmEWAAUm"
+      "url": "https://www.formula1.com/en/latest/article/why-norris-sao-paulo-victory-was-one-of-his-best-ever-wins.3hyiRlbfztlQekIw1WuvWd"
     },
     {
-      "date": "2026-11-04",
-      "title": "Vasseur unhappy after Ferrari's drivers fought each other in Mexico",
-      "whyItMatters": "Hamilton and Leclerc ran wide battling for the lead on lap one, gifting Verstappen the win, and the boss wants talks before Brazil.",
+      "date": "2026-11-11",
+      "title": "Camara survives a wet, crash-filled home debut with Haas",
+      "whyItMatters": "He hit the barriers in qualifying but still saw the flag in his first F1 race, a useful learning day before his full-time 2027 seat.",
       "source": "Formula1.com",
-      "url": "https://www.formula1.com/en/latest/article/its-race-week-5-storylines-were-excited-about-ahead-of-the-2026-sao-paulo-grand-prix.6Pvk4v10hKccs7IS4X667x"
+      "url": "https://www.formula1.com/en/latest/article/camara-experiences-every-condition-going-in-tricky-haas-debut.40TC0zRX2AaMmtJ50RsCYH"
     },
     {
-      "date": "2026-11-04",
-      "title": "Bottas walks away from a big suspension-failure crash",
-      "whyItMatters": "He should be fit for Brazil, but it was another non-finish at a time when his Cadillac seat for 2027 is already in doubt.",
+      "date": "2026-11-11",
+      "title": "Bearman calls a bad triple-header 'horrible' after slow stops in Brazil",
+      "whyItMatters": "Two retirements and a pit-stop mess that dropped him from tenth to 17th left Haas without points they felt were there for the taking.",
       "source": "Formula1.com",
-      "url": "https://www.formula1.com/en/latest/article/thankfully-im-okay-bottas-reacts-to-mexico-city-grand-prix-crash.z2CM4Jz6qwFerJGjQlaPB"
+      "url": "https://www.formula1.com/en/latest/article/bearman-relieved-horrible-three-weeks-for-haas-are-over.2DZIcOEVILLVUfQT00bStA"
     },
     {
-      "date": "2026-11-04",
-      "title": "Honda cooling trouble ends both Aston Martins' races after five laps",
-      "whyItMatters": "The altitude exposed a weakness in the power unit's energy-recovery cooling, though Alonso says next year's all-new engine gives him hope.",
+      "date": "2026-11-11",
+      "title": "Alonso says Aston Martin's car felt 'phenomenal' in Sao Paulo",
+      "whyItMatters": "A top-ten qualifying and a twelfth-place finish after the Mexico disaster hint the AMR26 can be quick when the layout suits it.",
       "source": "Formula1.com",
-      "url": "https://www.formula1.com/en/latest/article/why-aston-martins-mexico-city-grand-prix-ended-after-five-laps.2j9GYm3FSjAOGu23hmaMTA"
+      "url": "https://www.formula1.com/en/latest/article/alonso-credits-phenomenal-car-after-strong-showing-in-sao-paulo.7d9xmDFQhJ3IRqGx0xuFHK"
     }
   ]
 }
