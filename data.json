@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-11",
+  "lastUpdated": "2026-11-18",
   "races": [
     {
       "round": 15,
@@ -216,7 +216,11 @@
           "start": "2026-11-22T04:00:00Z"
         }
       ],
-      "watchFor": []
+      "watchFor": [
+        "Piastri drops 10 places on the grid after an engine change, so watch how far he can climb using the long straights.",
+        "The fight for second: Verstappen leads Russell by 17 points, and Hamilton sits just one point behind Russell.",
+        "Cold, dry desert nights (around 4-14\u00b0C) make tyre warm-up and graining the big puzzle for strategists."
+      ]
     },
     {
       "round": 22,
@@ -283,39 +287,39 @@
   ],
   "headlines": [
     {
-      "date": "2026-11-11",
-      "title": "Mercedes win the 2026 Constructors' Championship in Brazil",
-      "whyItMatters": "Fourth for Russell and fifth for new champion Antonelli were enough to land the team's ninth constructors' crown and first since 2021.",
+      "date": "2026-11-18",
+      "title": "Piastri faces a 10-place grid drop in Las Vegas",
+      "whyItMatters": "A reliability problem forced McLaren to fit a fifth combustion engine, one more than the season allowance, though the team thinks he can fight back through the field.",
       "source": "Formula1.com",
-      "url": "https://www.formula1.com/en/latest/article/rivals-congratulate-mercedes-on-2026-constructors-championship-after-sao-paulo-gp.5mQ3BkVs5HLP8LE8PduoWY"
+      "url": "https://www.formula1.com/en/latest/article/piastri-set-for-10-place-grid-penalty-at-las-vegas-grand-prix.5eT1wWFQzCfOS6W2tvTtLk"
     },
     {
-      "date": "2026-11-11",
-      "title": "Norris masters the Interlagos rain with a standout victory",
-      "whyItMatters": "Jolyon Palmer rates the win among Norris's best, as McLaren got the tricky wet-dry conditions right while others slipped up.",
+      "date": "2026-11-18",
+      "title": "Antonelli gets Mercedes' new turbo, but Russell sits it out",
+      "whyItMatters": "Fitting it would cost Russell five grid places, and Mercedes would rather protect his start as he chases Verstappen for second in the standings.",
       "source": "Formula1.com",
-      "url": "https://www.formula1.com/en/latest/article/why-norris-sao-paulo-victory-was-one-of-his-best-ever-wins.3hyiRlbfztlQekIw1WuvWd"
+      "url": "https://www.formula1.com/en/latest/article/why-russell-wont-run-mercedes-upgraded-turbocharger-in-las-vegas.2ZwhMHFGbRFb6pApmMiEgY"
     },
     {
-      "date": "2026-11-11",
-      "title": "Camara survives a wet, crash-filled home debut with Haas",
-      "whyItMatters": "He hit the barriers in qualifying but still saw the flag in his first F1 race, a useful learning day before his full-time 2027 seat.",
+      "date": "2026-11-18",
+      "title": "Pirelli brings its three softest tyres to the Strip",
+      "whyItMatters": "With low grip and chilly night air, getting the C3, C4 and C5 up to temperature and avoiding graining could decide the race.",
       "source": "Formula1.com",
-      "url": "https://www.formula1.com/en/latest/article/camara-experiences-every-condition-going-in-tricky-haas-debut.40TC0zRX2AaMmtJ50RsCYH"
+      "url": "https://www.formula1.com/en/latest/article/what-tyres-will-the-teams-and-drivers-have-for-the-2026-las-vegas-grand-prix.1HEaoIW48MVZs9cAT7rP2w"
     },
     {
-      "date": "2026-11-11",
-      "title": "Bearman calls a bad triple-header 'horrible' after slow stops in Brazil",
-      "whyItMatters": "Two retirements and a pit-stop mess that dropped him from tenth to 17th left Haas without points they felt were there for the taking.",
+      "date": "2026-11-17",
+      "title": "Cadillac unveil a see-through-style livery for their home race",
+      "whyItMatters": "It's the American team's last home event of their first season, and Perez and Bottas are still hunting for Cadillac's first points.",
       "source": "Formula1.com",
-      "url": "https://www.formula1.com/en/latest/article/bearman-relieved-horrible-three-weeks-for-haas-are-over.2DZIcOEVILLVUfQT00bStA"
+      "url": "https://www.formula1.com/en/latest/article/gallery-cadillac-reveal-special-livery-for-las-vegas-grand-prix.1b7NXQe83gP2LzjiCQf2ES"
     },
     {
-      "date": "2026-11-11",
-      "title": "Alonso says Aston Martin's car felt 'phenomenal' in Sao Paulo",
-      "whyItMatters": "A top-ten qualifying and a twelfth-place finish after the Mexico disaster hint the AMR26 can be quick when the layout suits it.",
+      "date": "2026-11-17",
+      "title": "Sainz reaches 250 Grands Prix and looks ahead to a big 2027 for Williams",
+      "whyItMatters": "The milestone lands in a tough year for Williams, and Sainz sees next season as the key test of the team's rebuild.",
       "source": "Formula1.com",
-      "url": "https://www.formula1.com/en/latest/article/alonso-credits-phenomenal-car-after-strong-showing-in-sao-paulo.7d9xmDFQhJ3IRqGx0xuFHK"
+      "url": "https://www.formula1.com/en/latest/article/exclusive-sainz-reflects-on-the-journey-to-his-250th-grand-prix-and-preparing-for-williams-most-important-year.4q4YmHp7ZpfnUTMjNNPXc9"
     }
   ]
 }
