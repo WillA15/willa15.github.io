@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-18",
+  "lastUpdated": "2026-11-26",
   "races": [
     {
       "round": 15,
@@ -216,11 +216,7 @@
           "start": "2026-11-22T04:00:00Z"
         }
       ],
-      "watchFor": [
-        "Piastri drops 10 places on the grid after an engine change, so watch how far he can climb using the long straights.",
-        "The fight for second: Verstappen leads Russell by 17 points, and Hamilton sits just one point behind Russell.",
-        "Cold, dry desert nights (around 4-14\u00b0C) make tyre warm-up and graining the big puzzle for strategists."
-      ]
+      "watchFor": []
     },
     {
       "round": 22,
@@ -251,7 +247,11 @@
           "start": "2026-11-29T16:00:00Z"
         }
       ],
-      "watchFor": []
+      "watchFor": [
+        "Each tyre set is capped at 27 laps, so all 57-lap runners must make at least two pit stops.",
+        "Verstappen and Russell bring their Las Vegas war of words back to Qatar, where they also fell out in 2024.",
+        "The fight for second is tight: Verstappen has 304 points, Hamilton 267, and Russell and Norris 264 each."
+      ]
     },
     {
       "round": 23,
@@ -287,39 +287,39 @@
   ],
   "headlines": [
     {
-      "date": "2026-11-18",
-      "title": "Piastri faces a 10-place grid drop in Las Vegas",
-      "whyItMatters": "A reliability problem forced McLaren to fit a fifth combustion engine, one more than the season allowance, though the team thinks he can fight back through the field.",
+      "date": "2026-11-25",
+      "title": "Williams found to have slightly overspent the 2025 cost cap",
+      "whyItMatters": "The FIA says the roughly 0.5% overspend brought no advantage, but Williams will pay a fine and lose a little wind tunnel and CFD time over the next year.",
       "source": "Formula1.com",
-      "url": "https://www.formula1.com/en/latest/article/piastri-set-for-10-place-grid-penalty-at-las-vegas-grand-prix.5eT1wWFQzCfOS6W2tvTtLk"
+      "url": "https://www.formula1.com/en/latest/article/fia-confirm-williams-minor-overspend-breach-in-2025-cost-cap-review.12rGorQ1pzc6aH0LX2WdLZ"
     },
     {
-      "date": "2026-11-18",
-      "title": "Antonelli gets Mercedes' new turbo, but Russell sits it out",
-      "whyItMatters": "Fitting it would cost Russell five grid places, and Mercedes would rather protect his start as he chases Verstappen for second in the standings.",
+      "date": "2026-11-25",
+      "title": "Pirelli caps every tyre set at 27 laps for Qatar",
+      "whyItMatters": "Lusail is so tough on tyres that every driver will be forced into at least two stops, with only the hardest C1, C2 and C3 compounds on offer.",
       "source": "Formula1.com",
-      "url": "https://www.formula1.com/en/latest/article/why-russell-wont-run-mercedes-upgraded-turbocharger-in-las-vegas.2ZwhMHFGbRFb6pApmMiEgY"
+      "url": "https://www.formula1.com/en/latest/article/explained-why-theres-a-27-lap-limit-on-tyres-for-the-qatar-grand-prix.4oeu38BqJh1h7llxUeILBe"
     },
     {
-      "date": "2026-11-18",
-      "title": "Pirelli brings its three softest tyres to the Strip",
-      "whyItMatters": "With low grip and chilly night air, getting the C3, C4 and C5 up to temperature and avoiding graining could decide the race.",
+      "date": "2026-11-25",
+      "title": "Ferrari tension simmers after Leclerc tipped Hamilton into a spin in Vegas",
+      "whyItMatters": "Team boss Fred Vasseur called the clash unacceptable, and Thursday's media day in Qatar is the first chance to hear whether there are consequences.",
       "source": "Formula1.com",
-      "url": "https://www.formula1.com/en/latest/article/what-tyres-will-the-teams-and-drivers-have-for-the-2026-las-vegas-grand-prix.1HEaoIW48MVZs9cAT7rP2w"
+      "url": "https://www.formula1.com/en/latest/article/its-race-week-5-storylines-were-excited-about-ahead-of-the-2026-qatar-grand-prix.1bXINUYO8R8X3K7DjINr1A"
     },
     {
-      "date": "2026-11-17",
-      "title": "Cadillac unveil a see-through-style livery for their home race",
-      "whyItMatters": "It's the American team's last home event of their first season, and Perez and Bottas are still hunting for Cadillac's first points.",
+      "date": "2026-11-24",
+      "title": "The Russell\u2013Verstappen rivalry boils over in Las Vegas",
+      "whyItMatters": "After banging wheels in practice and trading sharp words, the pair head into the final two races with no sign of a truce.",
       "source": "Formula1.com",
-      "url": "https://www.formula1.com/en/latest/article/gallery-cadillac-reveal-special-livery-for-las-vegas-grand-prix.1b7NXQe83gP2LzjiCQf2ES"
+      "url": "https://www.formula1.com/en/latest/article/was-russell-playing-mind-games-with-himself-before-verstappens-victory-in-las-vegas.3ZYU5SCNPd2f2JQIKr7LlM"
     },
     {
-      "date": "2026-11-17",
-      "title": "Sainz reaches 250 Grands Prix and looks ahead to a big 2027 for Williams",
-      "whyItMatters": "The milestone lands in a tough year for Williams, and Sainz sees next season as the key test of the team's rebuild.",
+      "date": "2026-11-24",
+      "title": "Camara stays with Haas to the finish, giving up his F2 title bid",
+      "whyItMatters": "Audi junior Freddie Slater takes Camara's F2 seat for the last two rounds, while Camara keeps racing in F1 ahead of his full-time Haas drive in 2027.",
       "source": "Formula1.com",
-      "url": "https://www.formula1.com/en/latest/article/exclusive-sainz-reflects-on-the-journey-to-his-250th-grand-prix-and-preparing-for-williams-most-important-year.4q4YmHp7ZpfnUTMjNNPXc9"
+      "url": "https://www.formula1.com/en/latest/article/audi-backed-slater-to-take-over-camaras-f2-seat-for-final-two-rounds-in-qatar-and-abu-dhabi.3F0sq83OoErm2IjBqsncqu"
     }
   ]
 }
